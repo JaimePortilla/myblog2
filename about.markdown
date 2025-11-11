@@ -4,15 +4,18 @@ title: About
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
+¡Hola! Me llamo Jaime (puedes cambiar el nombre si lo prefieres) y aquí cuento brevemente algunos de mis gustos y aficiones.
 
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
+- Aficiones tecnológicas: me gusta programar, experimentar con sitios estáticos como Jekyll y aprender nuevas herramientas para desarrollo web.
+- Lectura: disfruto de novela histórica y divulgación científica.
+- Música: escucho rock clásico y música instrumental para concentrarme.
+- Naturaleza y deporte: paseo en bici los fines de semana y practico senderismo cuando puedo.
 
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
+Me gusta compartir pequeños proyectos, tutoriales y reflexiones sobre tecnología y productividad. Si quieres contactarme o sugerir un tema, puedes dejar un comentario en alguna entrada o crear una issue en el repositorio del sitio.
 
+### Contacto
 
-[jekyll-organization]: https://github.com/jekyll
+- Correo: ejemplo@dominio.com (reemplázalo por el real si quieres)
+- GitHub: [JaimePortilla](https://github.com/JaimePortilla)
+
+Gracias por visitar este sitio. Si quieres que adapte el texto (más formal, añadir foto, idiomas), dímelo y lo actualizo.
