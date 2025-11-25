@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-¡Hola! Me llamo Jaime (puedes cambiar el nombre si lo prefieres) y aquí cuento brevemente algunos de mis gustos y aficiones.
+¡Hola! Me llamo Jaime y aquí cuento brevemente algunos de mis gustos y aficiones.
 
 - Aficiones tecnológicas: me gusta programar, experimentar con sitios estáticos como Jekyll y aprender nuevas herramientas para desarrollo web.
 - Lectura: disfruto de novela histórica y divulgación científica.

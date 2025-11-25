@@ -43,5 +43,3 @@ Visita [Jekyll](https://jekyllrb.com) para más información.
 | Valor 3 | Valor 4 |
 
 ---
-
-Gracias por leer. Si quieres que modifique el contenido (idioma, estilo, añadir autor), dímelo y lo actualizo.
