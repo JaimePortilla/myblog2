@@ -18,4 +18,3 @@ Me gusta compartir pequeños proyectos, tutoriales y reflexiones sobre tecnolog�
 - Correo: ejemplo@dominio.com (reemplázalo por el real si quieres)
 - GitHub: [JaimePortilla](https://github.com/JaimePortilla)
 
-Gracias por visitar este sitio. Si quieres que adapte el texto (más formal, añadir foto, idiomas), dímelo y lo actualizo.
