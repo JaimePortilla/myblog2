@@ -24,8 +24,8 @@ description: >- # this means to ignore newlines until "baseurl:"
   Una descripcion corta de mi blog.
   Esta descripcion puede ir en varias lineas.
   Esta descripcion aparecera en la pagina principal de mi blog.
-baseurl: "myblog2" # the subpath of your site, e.g. /blog
-url: "JaimePortilla.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/myblog2" # the subpath of your site, e.g. /blog
+url: "https://JaimePortilla.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: JaimePortilla
 github_username:  JaimePortilla
 
